@@ -26,7 +26,3 @@ NA
 
 * [The Complete Python and PostgreSQL Developer Course [Video]](https://www.packtpub.com/web-development/complete-python-and-postgresql-developer-course-video?utm_source=github&utm_medium=repository&utm_campaign=9781789957488)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789341539">https://packt.link/free-ebook/9781789341539 </a> </p>
